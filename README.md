@@ -1,8 +1,5 @@
 # Player Management and Roster Optimization System
 
-## Dashboard
-Check out the dashboard here: [Dashboard Link]()
-
 ---
 
 ## Problem Statement
